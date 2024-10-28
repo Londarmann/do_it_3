@@ -131,6 +131,7 @@ env.bak/
 venv.bak/
 test.py
 some.txt
+test2.py
 # Spyder project settings
 .spyderproject
 .spyproject
